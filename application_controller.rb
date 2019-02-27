@@ -1,8 +1,8 @@
 require 'dotenv/load'
 require 'bundler'
 require 'lyricfy'
-require 'pp'
 require 'rspotify'
+require 'pp'
 Bundler.require
 
 require_relative 'models/model.rb'
